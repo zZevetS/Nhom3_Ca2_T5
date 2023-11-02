@@ -41,11 +41,25 @@ Ngoài ra, cả người bệnh và nhân viên y tế đều có thể tìm th�
 
 
 ***** Những nội dung đã làm được:
+
+
 Xem trang chủ
+
+
 Đăng nhập
+
+
 Đăng kí
+
+
 Xem thông tin lịch khám
+
+
 Đặt lịch khám
+
+
 Xem chi tiết lịch khám
+
+
 Tìm Kiếm Bác Sĩ
 
