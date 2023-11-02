@@ -30,3 +30,13 @@ Các Thành Viên Trong Nhóm
 | 3 | Dư Tuấn Anh | ConLợnPhanRang | Scrum Master + Dev | Ngày Bắt Đầu: 14 / 9 / 2023 |  Ngày kết thúc: 16 / 11 / 2023|  
 
 | 4 | Dương Kiết Mi | MiDK | Scrum Master + Dev |  Ngày Bắt Đầu: 14 / 9 / 2023 |  Ngày kết thúc: 16 / 11 / 2023| 
+
+
+
+
+Công Nghệ Sử Dụng Cho Dự Án: ASP.NET MVC5 và Microsoft SQL Server
+
+![15DOT-NET-MVC-WEB-API-1024x576](https://github.com/zZevetS/Nhom3_PhongKhamTuNhan_T5_Ca2/assets/115059880/e5d6720a-2602-4536-99d3-4169009b48c8)
+![sql](https://github.com/zZevetS/Nhom3_PhongKhamTuNhan_T5_Ca2/assets/115059880/579fa20f-5bfd-4d9c-a82b-10b5844a900c)
+
+
