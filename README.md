@@ -1,7 +1,7 @@
 # Nhóm 3 - T5 - Ca 2
 ĐỀ TÀI: PHÒNG KHÁM TƯ NHÂN
 
-**Project Infomation: **
+******Project Infomation: ******
 
 
    "Hệ thống phòng khám tư nhân “Huflit Clinic” là một Website trực tuyến được thiết kế để cung cấp thông tin và dịch vụ y tế cho khách hàng và quản lý danh sách hồ sơ bệnh nhân, danh sách lịch hẹn cho nhân viên y tế.
@@ -17,7 +17,7 @@ Ngoài ra, cả người bệnh và nhân viên y tế đều có thể tìm th�
 ![TrangChu](https://github.com/zZevetS/Nhom3_PhongKhamTuNhan_T5_Ca2/assets/115059880/69a57a11-46b6-4e25-bafb-26cfdb7c6eb8)
 
 
-Các Thành Viên Trong Nhóm
+**********Các Thành Viên Trong Nhóm***********
 
 | No | Thành Viên Nhóm | Chức Vụ | Chức Vụ | Ngày Bắt Đầu | Ngày Hoàn Tất |
 
@@ -34,9 +34,8 @@ Các Thành Viên Trong Nhóm
 
 
 
-Công Nghệ Sử Dụng Cho Dự Án: ASP.NET MVC5 và Microsoft SQL Server
+********Công Nghệ Sử Dụng Cho Dự Án: ASP.NET MVC5 và Microsoft SQL Server
 
 ![15DOT-NET-MVC-WEB-API-1024x576](https://github.com/zZevetS/Nhom3_PhongKhamTuNhan_T5_Ca2/assets/115059880/e5d6720a-2602-4536-99d3-4169009b48c8)
 ![sql](https://github.com/zZevetS/Nhom3_PhongKhamTuNhan_T5_Ca2/assets/115059880/579fa20f-5bfd-4d9c-a82b-10b5844a900c)
-
 
