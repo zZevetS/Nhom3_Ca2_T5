@@ -63,3 +63,19 @@ Xem chi tiết lịch khám
 
 Tìm Kiếm Bác Sĩ
 
+***** Những nội dung sẽ làm trong tương lai:
+
+Cập nhật lịch đi làm
+
+Hủy lịch khám
+
+Thống kê doanh thu
+
+Điền kết quả
+
+Đọc kết quả khám bệnh
+
+Tính lương nhân viên
+
+
+
