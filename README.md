@@ -39,3 +39,13 @@ Ngoài ra, cả người bệnh và nhân viên y tế đều có thể tìm th�
 ![15DOT-NET-MVC-WEB-API-1024x576](https://github.com/zZevetS/Nhom3_PhongKhamTuNhan_T5_Ca2/assets/115059880/e5d6720a-2602-4536-99d3-4169009b48c8)
 ![sql](https://github.com/zZevetS/Nhom3_PhongKhamTuNhan_T5_Ca2/assets/115059880/579fa20f-5bfd-4d9c-a82b-10b5844a900c)
 
+
+***** Những nội dung đã làm được:
+Xem trang chủ
+Đăng nhập
+Đăng kí
+Xem thông tin lịch khám
+Đặt lịch khám
+Xem chi tiết lịch khám
+Tìm Kiếm Bác Sĩ
+
